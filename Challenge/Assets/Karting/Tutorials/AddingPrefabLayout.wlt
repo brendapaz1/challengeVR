@@ -400,7 +400,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Karting/Prefabs
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: /Users/brendapaz/Documents/GitHub/Challenge
+  m_LastProjectPath: /Users/brendapaz/Documents/GitHub/challengeVR/Challenge
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
